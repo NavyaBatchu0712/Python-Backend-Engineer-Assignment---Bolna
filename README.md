@@ -44,3 +44,6 @@ Instead of repeatedly downloading the entire feed, the script sends conditional 
 ## Installation
 
 Clone the repository:
+
+## Hosted Server
+https://bolna-assets--NavyaKrishna.replit.app
